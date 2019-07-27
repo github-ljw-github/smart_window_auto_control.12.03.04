@@ -1,0 +1,3 @@
+[submodule "myexpect"]
+	path = myexpect
+	url = https://github.com/github-ljw-github/myexpect.git
